@@ -19,7 +19,7 @@ This ETL pipeline is designed to process streaming data for a **music streaming 
 4. **Archival Process** → Moves processed files to `archive/raw-data/{date}/`.  
 
 ### **Architecture Diagram**  
-![ETL Architecture](architecture_diagram.png)
+![ETL Architecture](images/architecture_diagram.png)
 
 ---
 
